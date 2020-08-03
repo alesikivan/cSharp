@@ -1,0 +1,12 @@
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\bin\Debug\Vectors.exe.config
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\bin\Debug\Vectors.exe
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\bin\Debug\Vectors.pdb
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\obj\Debug\Vectors.exe
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\obj\Debug\Vectors.pdb
+D:\Учёба\С#\Готовые лабы по C#\Векторы\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\bin\Debug\Vectors.exe.config
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\bin\Debug\Vectors.exe
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\bin\Debug\Vectors.pdb
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\obj\Debug\Vectors.exe
+D:\Учёба\С#\Готовые лабы по C#\Векторы (new)\Vectors\Vectors\obj\Debug\Vectors.pdb

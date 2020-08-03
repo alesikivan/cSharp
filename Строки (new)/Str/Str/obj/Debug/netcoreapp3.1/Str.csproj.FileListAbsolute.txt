@@ -1,0 +1,33 @@
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.exe
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\bin\Debug\netcoreapp3.1\Str.pdb
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\obj\Debug\netcoreapp3.1\Str.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\obj\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки beta\Str\Str\obj\Debug\netcoreapp3.1\Str.pdb
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.exe
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\bin\Debug\netcoreapp3.1\Str.pdb
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\obj\Debug\netcoreapp3.1\Str.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\obj\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки\Str\Str\obj\Debug\netcoreapp3.1\Str.pdb
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.exe
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\bin\Debug\netcoreapp3.1\Str.pdb
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\obj\Debug\netcoreapp3.1\Str.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\obj\Debug\netcoreapp3.1\Str.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\obj\Debug\netcoreapp3.1\Str.dll
+D:\Учёба\С#\Готовые лабы по C#\Строки (new)\Str\Str\obj\Debug\netcoreapp3.1\Str.pdb

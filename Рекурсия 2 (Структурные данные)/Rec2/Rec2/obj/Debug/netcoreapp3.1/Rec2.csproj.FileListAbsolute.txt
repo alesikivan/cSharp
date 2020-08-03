@@ -1,0 +1,11 @@
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.exe
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.dll
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\bin\Debug\netcoreapp3.1\Rec2.pdb
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\obj\Debug\netcoreapp3.1\Rec2.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\obj\Debug\netcoreapp3.1\Rec2.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\obj\Debug\netcoreapp3.1\Rec2.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\obj\Debug\netcoreapp3.1\Rec2.dll
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 2 (Структурные данные)\Rec2\Rec2\obj\Debug\netcoreapp3.1\Rec2.pdb

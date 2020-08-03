@@ -1,0 +1,6 @@
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\bin\Debug\KWM.exe.config
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\bin\Debug\KWM.exe
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\bin\Debug\KWM.pdb
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\obj\Debug\KWM.exe
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\obj\Debug\KWM.pdb
+D:\Учёба\С#\Готовые лабы по C#\КМВ-циклы\KWM\KWM\obj\Debug\KWM.csprojAssemblyReference.cache

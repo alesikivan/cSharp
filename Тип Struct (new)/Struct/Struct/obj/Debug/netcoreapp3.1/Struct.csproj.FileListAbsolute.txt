@@ -1,0 +1,22 @@
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+D:\Учёба\С#\Готовые лабы по C#\Тип Struct (new)\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb

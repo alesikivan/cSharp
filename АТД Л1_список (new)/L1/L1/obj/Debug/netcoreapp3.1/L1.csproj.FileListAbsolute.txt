@@ -1,0 +1,11 @@
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.exe
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.deps.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\bin\Debug\netcoreapp3.1\L1.pdb
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\obj\Debug\netcoreapp3.1\L1.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\obj\Debug\netcoreapp3.1\L1.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Л1_список\L1\L1\obj\Debug\netcoreapp3.1\L1.pdb

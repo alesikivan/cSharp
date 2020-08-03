@@ -1,0 +1,11 @@
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.exe
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.deps.json
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.dll
+D:\Учёба\С#\Оля\String\String\bin\Debug\netcoreapp3.1\String.pdb
+D:\Учёба\С#\Оля\String\String\obj\Debug\netcoreapp3.1\String.csprojAssemblyReference.cache
+D:\Учёба\С#\Оля\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+D:\Учёба\С#\Оля\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+D:\Учёба\С#\Оля\String\String\obj\Debug\netcoreapp3.1\String.dll
+D:\Учёба\С#\Оля\String\String\obj\Debug\netcoreapp3.1\String.pdb

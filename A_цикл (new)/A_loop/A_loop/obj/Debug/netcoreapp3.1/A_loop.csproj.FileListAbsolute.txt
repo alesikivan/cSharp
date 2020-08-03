@@ -1,0 +1,22 @@
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.exe
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.deps.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.dll
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.pdb
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.dll
+D:\Учёба\С#\Готовые лабы по C#\A_цикл\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.pdb
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.exe
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.deps.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.dll
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\bin\Debug\netcoreapp3.1\A_loop.pdb
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.dll
+D:\Учёба\С#\Готовые лабы по C#\A_цикл (new)\A_loop\A_loop\obj\Debug\netcoreapp3.1\A_loop.pdb

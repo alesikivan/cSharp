@@ -1,0 +1,12 @@
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\bin\Debug\ILoop.exe.config
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\bin\Debug\ILoop.exe
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\bin\Debug\ILoop.pdb
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\obj\Debug\ILoop.exe
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\obj\Debug\ILoop.pdb
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\bin\Debug\ILoop.exe.config
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\obj\Debug\ILoop.exe
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\obj\Debug\ILoop.pdb
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\bin\Debug\ILoop.exe
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\bin\Debug\ILoop.pdb
+D:\Учёба\С#\Готовые лабы по C#\И-циклы beta\ILoop\ILoop\obj\Debug\ILoop.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\И-циклы\ILoop\ILoop\obj\Debug\ILoop.csprojAssemblyReference.cache

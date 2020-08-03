@@ -1,0 +1,22 @@
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.exe
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.deps.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.pdb
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.pdb
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.exe
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.deps.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\bin\Debug\netcoreapp3.1\AppChanged.pdb
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.dll
+D:\Учёба\С#\Готовые лабы по C#\АТД Последовательность (new)\AppChanged\AppChanged\obj\Debug\netcoreapp3.1\AppChanged.pdb

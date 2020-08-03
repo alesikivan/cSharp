@@ -1,0 +1,22 @@
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.exe
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.dll
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.pdb
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.dll
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.pdb
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.exe
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.deps.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.dev.json
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.dll
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.pdb
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.csprojAssemblyReference.cache
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfoInputs.cache
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfo.cs
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.dll
+D:\Учёба\С#\Готовые лабы по C#\Текстовые файлы (new)\TextFiles\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.pdb

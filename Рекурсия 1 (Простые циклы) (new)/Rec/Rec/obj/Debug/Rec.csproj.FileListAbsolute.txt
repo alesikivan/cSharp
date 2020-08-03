@@ -1,0 +1,6 @@
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\bin\Debug\Rec.exe.config
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\bin\Debug\Rec.exe
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\bin\Debug\Rec.pdb
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\obj\Debug\Rec.exe
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\obj\Debug\Rec.pdb
+D:\Учёба\С#\Готовые лабы по C#\Рекурсия 1 (Простые циклы)\Rec\Rec\obj\Debug\Rec.csprojAssemblyReference.cache
